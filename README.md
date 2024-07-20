@@ -6,9 +6,7 @@ Aqui eu descrevo passo a passo minha tragetória de estudos para me tornar um pr
 
 ### 1.1 HelloWord
 
-O que eu aprendi nesse tópico
-
 #### Comandos
-  - go: comando go que tem vários subcomandos, um dele é o "run"
+  - go: possui vários subcomandos, um deles é o "run"
   - run: compila o código fonte
   - build: cria um arquivo binário executável
