@@ -1,0 +1,2 @@
+go mod init book
+go mod tidy
